@@ -47,10 +47,10 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
+2. Search for `Swart Ninja Dark`.
+3. Navigate to `Swart Ninja Dark` theme.
 4. Press `Install`.
-6. Go to services and trigger the `frontend.reload_themes` service.
+5. Go to services and trigger the `frontend.reload_themes` service.
 
 ### Manual
 
@@ -58,15 +58,16 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
+git clone https://github.com/DickSwart/swart_ninja_dark.git
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
+git submodule add https://github.com/DickSwart/swart_ninja_dark.git
 ```
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/swartninja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 85px !important;" ></a>
 </p>
