@@ -68,6 +68,13 @@ cd themes/
 git submodule add https://github.com/DickSwart/swart_ninja_dark.git
 ```
 
+## Font
+
+These fonts are licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+- [Roboto](https://fonts.google.com/specimen/Roboto)
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/swartninja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 85px !important;" ></a>
 </p>
