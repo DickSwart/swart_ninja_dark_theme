@@ -1,3 +1,7 @@
+{% if prerelease %}
+### NB!: This is a Beta version!
+{% endif %}
+
 # Template Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/template.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/template)
@@ -53,3 +57,29 @@ frontend:
 4. Navigate to `Template` theme.
 5. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
+
+
+{% if installed %}
+## Changes as compared to your installed version:
+
+### Breaking Changes
+
+### Changes
+
+### Features
+
+{% if version_installed.replace("v", "").replace(".","") | int < 141  %}
+- Added `mode: bicycle`
+- Added `mode: publicTransportTimeTable` - Please look [here](https://developer.here.com/documentation/routing/topics/public-transport-routing.html) for differences between the two public modes.
+{% endif %}
+{% if version_installed.replace("v", "").replace(".","") | int < 142  %}
+- Release notes are shown in HACS depending on your installed version
+{% endif %}
+
+### Bugfixes
+
+{% if version_installed.replace("v", "").replace(".","") | int < 143  %}
+- Fix for `mode: publicTransportTimeTable` returning `No timetable route found`
+{% endif %}
+---
+{% endif %}
