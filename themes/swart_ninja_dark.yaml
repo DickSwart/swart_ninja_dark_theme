@@ -12,6 +12,9 @@ swart_ninja_dark:
     accent-color: "#B44A47"                             # Deep chestnut
     divider-color: "var(--secondary-background-color)"
     error-color: "#D32F2F"
+
+    # Custom colors
+    badge-color: "var(--primary-color)"
     white-color: "#F1F1F1"
 
     # Text colors
@@ -79,10 +82,10 @@ swart_ninja_dark:
     paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
 
     # Labels
-    label-badge-red: "var(--error-color)"
-    label-badge-yellow: "#FBC02D"               # Orange-yellow
-    label-badge-green: "#4CAF50"                # Green (Pantone)
-    label-badge-blue: "#437C90"                 # Teal blue
+    label-badge-red: "var(--badge-color)"
+    label-badge-yellow: "var(--badge-color)"
+    label-badge-green: "var(--badge-color)"
+    label-badge-blue: "var(--badge-color)"
     label-badge-text-color: "var(--primary-text-color)"
     label-badge-background-color: "var(--secondary-background-color)"
     label-badge-border-color: red
