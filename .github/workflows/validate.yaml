@@ -1,8 +1,12 @@
-name: Validate
+name: "HACS validation"
 
 on:
   push:
+    branches:
+      - master
   pull_request:
+    branches:
+      - master
   schedule:
     - cron: "0 0 * * *"
 
@@ -11,7 +15,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: "actions/checkout@v2"
-      - name: HACS validation
+      - name: "HACS validation"
         uses: "hacs/integration/action@master"
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
