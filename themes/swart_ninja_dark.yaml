@@ -82,10 +82,10 @@ swart_ninja_dark:
     paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
 
     # Labels
-    label-badge-red: "var(--badge-color)"
-    label-badge-yellow: "var(--badge-color)"
-    label-badge-green: "var(--badge-color)"
-    label-badge-blue: "var(--badge-color)"
+    label-badge-red: "var(--error-color)"
+    label-badge-yellow: "#FBC02D"               # Orange-yellow
+    label-badge-green: "#4CAF50"                # Green (Pantone)
+    label-badge-blue: "#437C90"                 # Teal blue
     label-badge-text-color: "var(--primary-text-color)"
     label-badge-background-color: "var(--secondary-background-color)"
     label-badge-border-color: red
