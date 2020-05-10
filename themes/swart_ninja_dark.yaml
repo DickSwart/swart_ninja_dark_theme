@@ -3,104 +3,104 @@
 # Swart Ninja Dark Theme
 #
 swart_ninja_dark:
-    # Main colors
-    dark-primary-color: "#2D7630" # Dartmouth green
-    primary-color: "#388E3C" # May green
-    light-primary-color: "#53A555" # Bud green
-    primary-background-color: "#323232" # Jet
-    secondary-background-color: "#272727" # Raisin black
-    accent-color: "#B44A47" # Deep chestnut
-    divider-color: "var(--secondary-background-color)"
-    error-color: "#D32F2F"
+  # Main colors
+  dark-primary-color: "#2D7630"          # Dartmouth green
+  primary-color: "#388E3C"               # May green
+  light-primary-color: "#53A555"         # Bud green
+  primary-background-color: "#323232"    # Jet
+  secondary-background-color: "#272727"  # Raisin black
+  accent-color: "#B44A47"                # Deep chestnut
+  divider-color: "var(--secondary-background-color)"
+  error-color: "#D32F2F"
 
-    # Custom colors
-    badge-color: "var(--primary-color)"
-    white-color: "#F1F1F1"
+  # Custom colors
+  badge-color: "var(--primary-color)"
+  white-color: "#F1F1F1"
 
-    # Text colors
-    primary-text-color: "#C8C8C8"
-    secondary-text-color: "var(--light-primary-color)"
-    text-primary-color: "var(--white-color)"
-    disabled-text-color: "#555"
-    text-dark-color: "var(--dark-primary-color)"
+  # Text colors
+  primary-text-color: "#C8C8C8"
+  secondary-text-color: "var(--light-primary-color)"
+  text-primary-color: "var(--white-color)"
+  disabled-text-color: "#555"
+  text-dark-color: "var(--dark-primary-color)"
 
-    # Font Family
-    primary-font-family: "Roboto, 'Open Sans', 'Helvetica Neue', sans-serif"
-    paper-font-body1_-_font-family: "'Open Sans',Roboto, 'Helvetica Neue', sans-serif"
-    paper-font-common-base_-_font-family: "var(--paper-font-body1_-_font-family)"
-    paper-font-common-code_-_font-family: "'Dank Mono', 'Operator Mono', 'Fira Code', Inconsolata, 'Roboto Mono', 'Consolas', 'Menlo', monospace"
-    paper-font-subhead_-_font-family: "var(--paper-font-body1_-_font-family)"
-    paper-font-headline_-_font-family: "var(--primary-font-family)"
-    paper-font-caption_-_font-family: "var(--primary-font-family)"
-    paper-font-title_-_font-family: "Roboto Medium, 'Open Sans', 'Helvetica Neue', sans-serif"
+  # Font Family
+  primary-font-family: "Roboto, 'Open Sans', 'Helvetica Neue', sans-serif"
+  paper-font-body1_-_font-family: "'Open Sans',Roboto, 'Helvetica Neue', sans-serif"
+  paper-font-common-base_-_font-family: "var(--paper-font-body1_-_font-family)"
+  paper-font-common-code_-_font-family: "'Dank Mono', 'Operator Mono', 'Fira Code', Inconsolata, 'Roboto Mono', 'Consolas', 'Menlo', monospace"
+  paper-font-subhead_-_font-family: "var(--paper-font-body1_-_font-family)"
+  paper-font-headline_-_font-family: "var(--primary-font-family)"
+  paper-font-caption_-_font-family: "var(--primary-font-family)"
+  paper-font-title_-_font-family: "Roboto Medium, 'Open Sans', 'Helvetica Neue', sans-serif"
 
-    # Sidebar
-    sidebar-background-color: "var(--secondary-background-color)"
-    sidebar-text-color: "var(--white-color)"
-    sidebar-icon-color: "rgba(241, 241, 241, 0.3)" # sidebar-text-color with alpha
-    sidebar-selected-background-color: "var(--primary-background-color)"
-    sidebar-selected-icon-color: "var(--primary-color)"
-    sidebar-selected-text-color: "var(--sidebar-selected-icon-color)"
+  # Sidebar
+  sidebar-background-color: "var(--secondary-background-color)"
+  sidebar-text-color: "var(--white-color)"
+  sidebar-icon-color: "rgba(241, 241, 241, 0.3)"  # sidebar-text-color with alpha
+  sidebar-selected-background-color: "var(--primary-background-color)"
+  sidebar-selected-icon-color: "var(--primary-color)"
+  sidebar-selected-text-color: "var(--sidebar-selected-icon-color)"
 
-    # Card
-    ha-card-border-radius: "0.3em"
-    ha-card-background: "var(--secondary-background-color)"
-    ha-card-box-shadow: "none"
-    paper-card-background-color: "rgba(39, 39, 39, 0.8)" # Secondary background colour with alpha
-    card-background-color: "var(--paper-card-background-color)"
+  # Card
+  ha-card-border-radius: "0.3em"
+  ha-card-background: "var(--secondary-background-color)"
+  ha-card-box-shadow: "none"
+  paper-card-background-color: "rgba(39, 39, 39, 0.8)"  # Secondary background colour with alpha
+  card-background-color: "var(--paper-card-background-color)"
 
-    # Pop-up / Drop Menu
-    paper-listbox-color: var(--white-color)
-    paper-listbox-background-color: rgba(0, 0, 0, 0.5) # Black with alpha
-    material-background-color: "var(--secondary-background-color)"
-    material-secondary-background-color: "var(--paper-listbox-background-color)"
-    material-body-text-color: "var(--white-color)"
+  # Pop-up / Drop Menu
+  paper-listbox-color: var(--white-color)
+  paper-listbox-background-color: rgba(0, 0, 0, 0.5) # Black with alpha
+  material-background-color: "var(--secondary-background-color)"
+  material-secondary-background-color: "var(--paper-listbox-background-color)"
+  material-body-text-color: "var(--white-color)"
 
-    # Sliders
-    paper-slider-knob-color: "var(--primary-color)"
-    paper-slider-knob-start-color: var(--white-color)
-    paper-slider-secondary-color: var(--paper-slider-knob-color)
+  # Sliders
+  paper-slider-knob-color: "var(--primary-color)"
+  paper-slider-knob-start-color: var(--white-color)
+  paper-slider-secondary-color: var(--paper-slider-knob-color)
 
-    ha-slider-background: none !important
-    paper-slider-active-color: "var(--primary-color)"
-    paper-slider-container-color: "rgba(241, 241, 241, 0.3)" # white-color with alpha of 0.3
-    paper-slider-disabled-active-color: "var(--disabled-text-color)"
-    paper-slider-disabled-secondary-color: "var(--disabled-text-color)"
-    paper-slider-font-color: "var(--white-color)"
-    paper-slider-pin-color: var(--accent-color)
+  ha-slider-background: none !important
+  paper-slider-active-color: "var(--primary-color)"
+  paper-slider-container-color: "rgba(241, 241, 241, 0.3)"  # white-color with alpha of 0.3
+  paper-slider-disabled-active-color: "var(--disabled-text-color)"
+  paper-slider-disabled-secondary-color: "var(--disabled-text-color)"
+  paper-slider-font-color: "var(--white-color)"
+  paper-slider-pin-color: var(--accent-color)
 
-    # Switches
-    switch-unchecked-color: "var(--paper-slider-container-color)"
-    switch-unchecked-button-color: "var(--paper-slider-knob-start-color)"
-    switch-checked-track-color: "var(--paper-slider-knob-color)"
-    switch-checked-button-color: "var(--paper-slider-knob-color)"
-    paper-toggle-button-checked-button-color: "var(--primary-color)"
-    paper-toggle-button-checked-bar-color: "var(--primary-color)"
-    paper-toggle-button-checked-ink-color: "var(--primary-color)"
-    paper-toggle-button-unchecked-button-color: "var(--paper-toggle-button-checked-button-color)"
-    paper-toggle-button-unchecked-bar-color: "var(--disabled-text-color)"
-    paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
+  # Switches
+  switch-unchecked-color: "var(--paper-slider-container-color)"
+  switch-unchecked-button-color: "var(--paper-slider-knob-start-color)"
+  switch-checked-track-color: "var(--paper-slider-knob-color)"
+  switch-checked-button-color: "var(--paper-slider-knob-color)"
+  paper-toggle-button-checked-button-color: "var(--primary-color)"
+  paper-toggle-button-checked-bar-color: "var(--primary-color)"
+  paper-toggle-button-checked-ink-color: "var(--primary-color)"
+  paper-toggle-button-unchecked-button-color: "var(--paper-toggle-button-checked-button-color)"
+  paper-toggle-button-unchecked-bar-color: "var(--disabled-text-color)"
+  paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
 
-    # Labels
-    label-badge-red: "var(--error-color)"
-    label-badge-yellow: "#FBC02D" # Orange-yellow
-    label-badge-green: "#4CAF50" # Green (Pantone)
-    label-badge-blue: "#437C90" # Teal blue
-    label-badge-text-color: "var(--primary-text-color)"
-    label-badge-background-color: "var(--secondary-background-color)"
-    label-badge-border-color: red
+  # Labels
+  label-badge-red: "var(--error-color)"
+  label-badge-yellow: "#FBC02D"  # Orange-yellow
+  label-badge-green: "#4CAF50"   # Green (Pantone)
+  label-badge-blue: "#437C90"    # Teal blue
+  label-badge-text-color: "var(--primary-text-color)"
+  label-badge-background-color: "var(--secondary-background-color)"
+  label-badge-border-color: red
 
-    # Icons
-    state-icon-color: "rgba(241, 241, 241, 0.3)" # white-color with alpha of 0.3
-    paper-item-icon-color: "var(--state-icon-color)"
-    paper-item-icon-active-color: "var(--white-color)"
+  # Icons
+  state-icon-color: "rgba(241, 241, 241, 0.3)"  # white-color with alpha of 0.3
+  paper-item-icon-color: "var(--state-icon-color)"
+  paper-item-icon-active-color: "var(--white-color)"
 
-    # Table
-    table-row-background-color: "rgba(0, 0, 0, 0.3)" # Black with alpha
-    table-row-alternative-background-color: "var(--secondary-background-color)"
+  # Table
+  table-row-background-color: "rgba(0, 0, 0, 0.3)"  # Black with alpha
+  table-row-alternative-background-color: "var(--secondary-background-color)"
 
-    # Comunity plugins
-    #------------------------------------------------------------------------
-    # simple-thermostat (https://github.com/nervetattoo/simple-thermostat)
-    st-mode-background: "var(--primary-background-color)"
-    st-mode-active-color: "var(--white-color)"
+  # Comunity plugins
+  #------------------------------------------------------------------------
+  # simple-thermostat (https://github.com/nervetattoo/simple-thermostat)
+  st-mode-background: "var(--primary-background-color)"
+  st-mode-active-color: "var(--white-color)"
