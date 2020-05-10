@@ -1,37 +1,38 @@
 # Swart Ninja Dark Theme
 
-[![Build Status](https://www.travis-ci.org/home-assistant-community-themes/template.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/template)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 ## Screenshots
 
-### Overview
+### Overview of some of Home Assistant native controls.
 
-![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-overview.png)
+![Theme - Overview](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-overview.png)
 
-### Map
+![Theme - Map](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-livingroom.png)
 
-![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-map.png)
+### Notifications
+
+![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-notifications.png)
 
 ### Logbook
 
-![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-logbook.png)
+![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-logbook.png)
 
 ### History
 
-![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-history.png)
+![Theme - History](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-history.png)
 
 ### Developer Tools
 
-![Theme - Developer Tools](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-developer-tools.png)
+![Theme - Developer Tools](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-developer-tools.png)
 
 ### Configuration
 
-![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-configuration.png)
+![Theme - Configuration](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-configuration.png)
 
 ### Profile
 
-![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-profile.png)
+![Theme - Profile](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-profile.png)
 
 ## Installation
 
@@ -47,8 +48,8 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Swart Ninja Dark`.
-3. Navigate to `Swart Ninja Dark` theme.
+2. Search for `Swart Ninja Dark Theme`.
+3. Navigate to `Swart Ninja Dark Theme` theme.
 4. Press `Install`.
 5. Go to services and trigger the `frontend.reload_themes` service.
 
@@ -75,6 +76,10 @@ These fonts are licensed under the [Apache License, Version 2.0](http://www.apac
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
+---
+
+## Support and donate
+If you like this theme please star this repo and share with your friends.
 <p align="center">
-<a href="https://www.buymeacoffee.com/swartninja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 85px !important;" ></a>
+<a href="https://www.buymeacoffee.com/swartninja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 </p>
