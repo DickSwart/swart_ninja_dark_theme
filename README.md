@@ -3,6 +3,9 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
 ![GitHub](https://img.shields.io/github/license/dickswart/swart_ninja_dark_theme?style=flat-square)
 [![homeassistant_community](https://img.shields.io/badge/HA%20community-forum-orange?style=flat-square)](https://community.home-assistant.io/t/share-your-themes/22018/260?u=dickswart)
+![Travis (.com)](https://img.shields.io/travis/com/DickSwart/swart_ninja_dark_theme?style=flat-square)
+![Yamllint](https://github.com/DickSwart/swart_ninja_dark_theme/workflows/Yamllint/badge.svg)
+![HACS validation](https://github.com/DickSwart/swart_ninja_dark_theme/workflows/HACS%20validation/badge.svg)
 
 ## Screenshots
 
