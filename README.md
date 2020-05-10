@@ -1,6 +1,8 @@
 # Swart Ninja Dark Theme
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
+![GitHub](https://img.shields.io/github/license/dickswart/swart_ninja_dark_theme?style=flat-square)
+[![homeassistant_community](https://img.shields.io/badge/HA%20community-forum-orange?style=flat-square)](https://community.home-assistant.io/t/share-your-themes/22018/260?u=dickswart)
 
 ## Screenshots
 
