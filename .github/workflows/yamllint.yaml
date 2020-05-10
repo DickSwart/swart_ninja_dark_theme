@@ -4,9 +4,6 @@ on:
   push:
     paths:
     - 'themes/**'
-  pull_request:
-    paths:
-    - 'themes/**'
 
 jobs:
   yamllint:
