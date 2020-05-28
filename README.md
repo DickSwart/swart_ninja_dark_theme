@@ -7,37 +7,15 @@
 ![Yamllint](https://github.com/DickSwart/swart_ninja_dark_theme/workflows/Yamllint/badge.svg)
 ![HACS validation](https://github.com/DickSwart/swart_ninja_dark_theme/workflows/HACS%20validation/badge.svg)
 
+If you like this theme please don't forget to ⭐ this repo.
+
 ## Screenshots
 
-### Overview of some of Home Assistant native controls.
+More screenshots can be found in the [repo docs](https://github.com/DickSwart/swart_ninja_dark_theme/tree/master/docs).
 
 ![Theme - Overview](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-overview.png)
 
 ![Theme - Map](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-livingroom.png)
-
-### Notifications
-
-![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-notifications.png)
-
-### Logbook
-
-![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-logbook.png)
-
-### History
-
-![Theme - History](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-history.png)
-
-### Developer Tools
-
-![Theme - Developer Tools](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-developer-tools.png)
-
-### Configuration
-
-![Theme - Configuration](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-configuration.png)
-
-### Profile
-
-![Theme - Profile](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-profile.png)
 
 ## Installation
 
