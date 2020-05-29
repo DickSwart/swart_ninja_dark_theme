@@ -77,5 +77,5 @@ swart_ninja_dark:
   table-row-background-color: "rgba(0, 0, 0, 0.3)"
   text-dark-color: "var(--dark-primary-color)"
   text-primary-color: "var(--white-color)"
-  white-color-alpha: "rgba(241, 241, 241, 0.3)"
   white-color: "#F1F1F1"
+  white-color-alpha: "rgba(241, 241, 241, 0.3)"
