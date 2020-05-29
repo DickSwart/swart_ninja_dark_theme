@@ -15,7 +15,7 @@
 
 ## Thank you for using Swart Ninja Dark theme!
 
-If you like this theme please star this [github repo](https://github.com/DickSwart/swart_ninja_dark_theme) and share with your friends.
+If you like this theme please don't forget to ⭐ this [github repo](https://github.com/DickSwart/swart_ninja_dark_theme) and share with your friends.
 <p align="center">
 <a href="https://www.buymeacoffee.com/swartninja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 </p>
@@ -27,35 +27,11 @@ If you like this theme please star this [github repo](https://github.com/DickSwa
 
 ## Screenshots
 
-### Overview of some of Home Assistant native controls.
+More screenshots can be found in the [repo docs](https://github.com/DickSwart/swart_ninja_dark_theme/tree/master/docs).
 
 ![Theme - Overview](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-overview.png)
 
 ![Theme - Map](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-livingroom.png)
-
-### Notifications
-
-![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-notifications.png)
-
-### Logbook
-
-![Theme - Logbook](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-logbook.png)
-
-### History
-
-![Theme - History](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-history.png)
-
-### Developer Tools
-
-![Theme - Developer Tools](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-developer-tools.png)
-
-### Configuration
-
-![Theme - Configuration](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-configuration.png)
-
-### Profile
-
-![Theme - Profile](https://raw.githubusercontent.com/DickSwart/swart_ninja_dark_theme/master/docs/theme-profile.png)
 
 ## Installation
 
