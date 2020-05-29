@@ -3,11 +3,11 @@
 # Swart Ninja Dark Theme
 #
 swart_ninja_dark:
-  complement-color-one: "#035A4B"
-  complement-color-two: "#8F3C04"
   accent-color: "#B44A47"
   badge-color: "var(--primary-color)"
   card-background-color: "var(--paper-card-background-color)"
+  complement-color-one: "#035A4B"
+  complement-color-two: "#8F3C04"
   dark-primary-color: "#2D7630"
   disabled-text-color: "#555"
   divider-color: "var(--secondary-background-color)"
@@ -77,5 +77,5 @@ swart_ninja_dark:
   table-row-background-color: "rgba(0, 0, 0, 0.3)"
   text-dark-color: "var(--dark-primary-color)"
   text-primary-color: "var(--white-color)"
-  white-color: "#F1F1F1"
   white-color-alpha: "rgba(241, 241, 241, 0.3)"
+  white-color: "#F1F1F1"
