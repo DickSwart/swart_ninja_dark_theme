@@ -5,7 +5,6 @@
 swart_ninja_dark:
   accent-color: "#B44A47"
   badge-color: "var(--primary-color)"
-#  border-radius: "0"
   border-radius: "0.4em"
   card-background-color: "var(--paper-card-background-color)"
   complement-color-one: "#035A4B"
